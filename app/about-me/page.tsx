@@ -9,7 +9,7 @@ const AboutMeSection = () => {
     // FIX 1: SEMUA VARIABEL PRIBADI HARUS DIDEKLARASIKAN DI DALAM FUNGSI KOMPONEN
     const fullName = "Apriliano Ernando Benyamin Boimau";
     const currentStatus = "Informatics Students Amikom Yogyakarta";
-    const personalWebsiteLink = "https://github.com/2eight9"; // GANTI DENGAN LINK PRIBADI ANDA
+    const personalWebsiteLink = "https://nyknw.vercel.app/"; // GANTI DENGAN LINK PRIBADI ANDA
     const profileImageUrl = "/profile-image.jpg"; // FIX 2: PATH HARUS DIMULAI DENGAN GARIS MIRING (/)
 
     // Biografi Inti (Dalam Bahasa Inggris)
